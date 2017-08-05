@@ -2553,24 +2553,27 @@
 
 /* Footer */
 
+
 	#footer {
 		position:fixed;
 		bottom: 64px;
+		
+
 	}
 
 
 
 	#footer .icons {
 		margin: 1em 0 0 0;
-
-
+		background-color: rgba(0, 0, 0, 0.7);
+		border-radius: 30px;
 
 	}
 
 
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(0, 255, 255, 0.4);
 		}
 
 	#footer .copyright {
