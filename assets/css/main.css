@@ -138,7 +138,7 @@
 
 	}
 
-	@media screen and (max-width: 880px) {
+	@media screen and (max-width: 800px) {
 
 		.container.\31 25\25 {
 			width: 100%;
@@ -904,7 +904,7 @@
 
 	}
 
-	@media screen and (max-width: 880px) {
+	@media screen and (max-width: 800px) {
 
 		.row > * {
 			padding: 0 0 0 2em;
@@ -2600,11 +2600,10 @@
 /* Footer */
 
 
-
-
 	#footer {
 		bottom: 33px;
         position: fixed;
+        margin-left: 30px;
 		
 	}
 
@@ -2991,10 +2990,6 @@
 				padding: 6em 3em 3em 3em;
 				width: calc(100% - 50%);
 			}
-        
-        #footer {
-            margin-left: 30px;
-        }
 
 	}
 
@@ -3002,7 +2997,7 @@
 
 /* Medium */
 
-	@media screen and (max-width: 880px) {
+	@media screen and (max-width: 800px) {
 
 		/* Basic */
 
