@@ -138,7 +138,7 @@
 
 	}
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 880px) {
 
 		.container.\31 25\25 {
 			width: 100%;
@@ -904,7 +904,7 @@
 
 	}
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 880px) {
 
 		.row > * {
 			padding: 0 0 0 2em;
@@ -2991,6 +2991,10 @@
 				padding: 6em 3em 3em 3em;
 				width: calc(100% - 50%);
 			}
+        
+        #footer {
+            margin-left: 30px;
+        }
 
 	}
 
@@ -2998,7 +3002,7 @@
 
 /* Medium */
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 880px) {
 
 		/* Basic */
 
@@ -3025,6 +3029,8 @@
 				top: auto;
 				width: 100%;
 				display: block;
+                background-image: url(../../images/pano2.png);
+                background-size: 100% auto;
 			}
 
 				#header h1 {
