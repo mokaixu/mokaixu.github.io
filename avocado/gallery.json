@@ -5,9 +5,9 @@
     "images_path": "./public/images/photos",
     "thumbnails_path": "./public/images/thumbnails",
     "thumbnail_height": 160,
-    "title": "Avocado",
-    "description": "avocado",
-    "background_photo": "",
+    "title": "100 Days of Avocado",
+    "description": "Welcome!",
+    "background_photo": "./public/images/photos/0005.jpg",
     "url": "http://monicaxu.me",
     "background_photo_offset": 30
 }
