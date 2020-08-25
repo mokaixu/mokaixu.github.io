@@ -7,7 +7,7 @@
     "thumbnail_height": 160,
     "title": "100 Days of Avocado",
     "description": "Welcome!",
-    "background_photo": "./public/images/photos/0005.jpg",
+    "background_photo": "0005.jpg",
     "url": "http://monicaxu.me",
     "background_photo_offset": 30
 }
