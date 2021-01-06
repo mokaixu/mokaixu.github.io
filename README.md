@@ -2,7 +2,7 @@
 
 This is the third version of my personal website. 
 It is redesigned using HTML5 Strata as the base. 
-Last Updated: May 2019
+Last Updated: Jan 2021
 
 Built with:
 * HTML5 
