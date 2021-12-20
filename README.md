@@ -1,8 +1,7 @@
-### personal-website-2
+### mokaixu.github.io
 
-This is the third version of my personal website. 
-It is redesigned using HTML5 Strata as the base. 
-Last Updated: Jan 2021
+This is the fourth version of my personal website. 
+It is redesigned using HTML5 Aerial as the base. 
 
 Built with:
 * HTML5 
