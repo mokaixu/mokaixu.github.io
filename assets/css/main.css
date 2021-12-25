@@ -59,7 +59,6 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-
   width: 30%;
   height: 30%;
   border-radius: 50%;
@@ -94,7 +93,6 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		overflow: hidden;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -135,6 +133,7 @@ input, select, textarea {
 	.avatar {
 	  display: block;
 	  margin-left: auto;
+	  margin-top: auto;
 	  margin-right: auto;
 
 	  width: 200px;
@@ -226,6 +225,8 @@ input, select, textarea {
 		position: fixed;
 		top: 0;
 		width: 100%;
+		overflow: scroll !important;
+
 	}
 
 /* BG */
@@ -393,6 +394,8 @@ input, select, textarea {
 		text-align: center;
 		top: 0;
 		width: 100%;
+		overflow: scroll !important;
+
 	}
 
 		#main:before {
@@ -761,6 +764,7 @@ input, select, textarea {
 			  display: block;
 			  margin-left: auto;
 			  margin-right: auto;
+	 		 margin-top: auto;
 
 			  width: 160px;
 			  height: 160px;
@@ -1026,6 +1030,7 @@ input, select, textarea {
 			  display: block;
 			  margin-left: auto;
 			  margin-right: auto;
+	  margin-top: auto;
 
 			  width: 120px;
 			  height: 120px;
